@@ -2,9 +2,8 @@
   "name": "cliente-app",
   "version": "0.0.0",
   "scripts": {
-    "heroku-postbuild": "ng build --prod && npm install -g http-server-spa",
     "ng": "ng",
-    "start": "http-server-spa dist/cliente-app index.html $PORT",
+    "start": "ng serve",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
