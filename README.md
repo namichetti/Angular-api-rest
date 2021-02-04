@@ -4,7 +4,7 @@ Proyecto generado con [Angular CLI](https://github.com/angular/angular-cli) vers
 
 Además utiliza Boostrap 4.
 
-Consume la API del repositorio https://github.com/namichetti/Spring-api-rest , desplegado en **Heroku**.
+Consume la API de https://github.com/namichetti/Spring-api-rest , desplegado en **Heroku**.
 
 ## Servidor de desarrollo
 
