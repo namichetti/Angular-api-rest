@@ -9,7 +9,7 @@ import {HttpClient, HttpHeaders} from '@angular/common/http';
 })
 export class ClienteService {
 
-  private urlEndPoint:string='http://localhost:8080/api/';
+  private urlEndPoint:string='https://spring-angular-amichetti.herokuapp.com/api/';
   private httpHeaders = new HttpHeaders({'Content-Type':'application/json'});
 
   constructor(private httpClient:HttpClient) {}
